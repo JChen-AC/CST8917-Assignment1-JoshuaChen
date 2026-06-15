@@ -8,6 +8,8 @@
 
 **Semester**: Spring 2026
 
+**Due Date**: June 14th 2026
+
 ---
 ## Part 1
 The central thesis of this paper is that the current state of serverless computing is not at its full potential and that there are still many improvements to be made. It outlines this by saying that serverless functions have taken “one step forward, two steps back” [1]. The current version of cloud computing involves fully managed services offered by a cloud provider. This means the services can auto-scale and do not require any infrastructure management from the user, which is a step forward for serverless computing. Where it takes a step back is where the current version ignores the importance of efficient data processing and ignores the development of distributed systems. These are two concepts that can really improve the current version of cloud computing [1].
@@ -58,9 +60,9 @@ I believe that the current durable functions do not represent the kind of progre
 [4]	“Performance and Scale in Durable Functions - Azure,” Microsoft Learn. Accessed: Jun. 14, 2026. [Online]. Available: https://docs.azure.cn/en-us/azure-functions/durable-functions/durable-functions-perf-and-scale
 
 
-## AI Usage
-- Claude was used to summarize part 1 (of the paper), the introduction part of the paper
+## AI Disclosure Statement
+- Claude was used to summarize Section 1, the introduction part of the paper
 - Claude was used to explain the terms used in the paper (SLOs, DSLs) and explain what an IR is
-- Claude was used to summarize and simplify part 4 (of the paper), the improvement part of the paper
+- Claude was used to summarize and simplify Section 4, the improvement part of the paper
 - Claude was used to help research the topics in Part 2 of the assignment, providing a quick summary and additional resources to learn more
 - Claude was used to double check my understanding on how Orchestrator Functions pass parameters into Activity Functions and  Fan Out Fan In pattern
